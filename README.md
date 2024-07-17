@@ -5,9 +5,15 @@ I am a Full-stack software architect/engineer, I have high technical skills and 
 Below is the list of my skills:
 
 ★ Programming Languages: JavaScript, TypeScript, Python.
+
 ★ Client-side: NextJS, ReactJS, SASS/LESS, Bootstrap, HTML5, CSS, jQuery.
+
 ★ Server-side: Django, Flask, Fast API, Django Rest Framework, MicroServices.
+
 ★ Testing: Jest
+
 ★ Version Control: GitHub, Bitbucket, Azure DevOps, TFS, SVN
+
 ★ DBMS: MS SQL, MongoDB, MySQL, SQLite, PostgreSQL.
+
 ★ Cloud Services: AWS, Azure
